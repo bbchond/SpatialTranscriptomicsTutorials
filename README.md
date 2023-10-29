@@ -1,5 +1,6 @@
 # SpatialTranscriptomicsTutorials
 Tutorials of spatial transcriptomics data loading, including 10X Visium and Old ST.
+<<<<<<< HEAD
 
 目前，大多数的公开空转数据集，在这两个空间转录组数据集收集网站上可以找到**(.h5ad)**为文件后缀：
 
@@ -49,4 +50,4 @@ Spatial Domain Identification Methods可大致分为三类：
 此外，还有比较奇葩的，比如用了形态学和转录信息，但是没有用到空间信息的：
 
 1. [ConGI](https://academic.oup.com/bib/article-abstract/24/2/bbad048/7035112) (BIB 2023.02)
-2. [MUSE](https://www.nature.com/articles/s41587-022-01251-z) (Biotechnology 2022.05)
+1. [MUSE](https://www.nature.com/articles/s41587-022-01251-z) (Biotechnology 2022.05)
