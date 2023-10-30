@@ -1,7 +1,5 @@
 # SpatialTranscriptomicsTutorials
 Tutorials of spatial transcriptomics data loading, including 10X Visium and Old ST.
-<<<<<<< HEAD
-
 目前，大多数的公开空转数据集，在这两个空间转录组数据集收集网站上可以找到**(.h5ad)**为文件后缀：
 
 1. [STOmics DB](https://db.cngb.org/stomics/)：中国国家基因库数据库
@@ -13,7 +11,7 @@ Spatial Domain Identification Methods可大致分为三类：
 
    (1) [SCANPY](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1382-0) (Genome Biology 2018.02)
 
-   (2) [Seurat](https://satijalab.org/seurat/) (Nature Biotechnology 2015.04 (V1),  Nature Biotechnology 2018.04 (V2), Cell 2019.06 (V3), Cell 2021.05 (V4), Cell 2019.06 (V3), bioRxiv 2022.02(V5))
+   (2) [Seurat](https://satijalab.org/seurat/) (Nature Biotechnology 2015.04 (V1),  Nature Biotechnology 2018.04 (V2), Cell 2019.06 (V3), Cell 2021.05 (V4), bioRxiv 2022.02(V5))
 
 2. Spatial but no morphology: 
 
