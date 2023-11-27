@@ -7,6 +7,14 @@ Tutorials of spatial transcriptomics data loading, including 10X Visium and Old 
 
 Spatial Domain Identification Methods可大致分为三类：
 
+Current methods for identifying tissue structures for spatial transcriptomics data include three categories: 
+
+1. Clustering using gene expression profiles alone, the representative method is Louvain (implemented by SCANPY and Seurat);
+2. Clustering using both gene expression profiles and spatial location, the representative method is BayesSpace; 
+3. Clustering using gene expression profiles, spatial location and histological image, the representative method is SpaGCN.
+
+下面是各个分类中的详细代表性算法：
+
 1. Non-spatial: 
 
    (1) [SCANPY](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1382-0) (Genome Biology 2018.02)
